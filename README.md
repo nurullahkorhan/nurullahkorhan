@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nurullahkorhan
+- 👋 Hi, I’m Nurullah Korhan
 - 👀 I’m interested in Mobile & Web Developing
 - 🌱 I’m currently learning React Native
 <!---
